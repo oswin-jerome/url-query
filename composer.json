@@ -1,5 +1,6 @@
 {
     "name": "ideaux/url-query",
+    "version": "v1.0.0",
     "autoload": {
         "psr-4": {
             "Ideaux\\UrlQuery\\": "src/"
