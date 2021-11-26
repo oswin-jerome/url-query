@@ -1,6 +1,6 @@
 <?php
 
-namespace Oswin\UrlQuery;
+namespace Ideaux\UrlQuery;
 
 
 class UrlQueryServiceProvider extends \Illuminate\Support\ServiceProvider

@@ -1,8 +1,8 @@
 {
-    "name": "oswin/url-query",
+    "name": "ideaux/url-query",
     "autoload": {
         "psr-4": {
-            "Oswin\\UrlQuery\\": "src/"
+            "Ideaux\\UrlQuery\\": "src/"
         }
     },
     "authors": [

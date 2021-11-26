@@ -1,5 +1,5 @@
 <?php
-namespace Oswin\UrlQuery\Traits;
+namespace Ideaux\UrlQuery\Traits;
 
 trait HasSearchable
 {
