@@ -1,0 +1,15 @@
+{
+    "name": "oswin/url-query",
+    "autoload": {
+        "psr-4": {
+            "Oswin\\UrlQuery\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oswin-jerome",
+            "email": "oswinjeromej@gmail.com"
+        }
+    ],
+    "require": {}
+}
